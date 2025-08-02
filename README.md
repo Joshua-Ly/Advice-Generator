@@ -32,7 +32,7 @@ To setup the project locally, follow these steps:
 1. Clone the repository using GitHub Desktop or Git Bash:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/Joshua-Ly/Advice-Generator
     ```
 2. Open the project folder in your code editor.
 3. Run the project using a live server extension or deploy it using Netlify, Vercel, or another web hosting and deployment service.
