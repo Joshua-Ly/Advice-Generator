@@ -1,4 +1,4 @@
-# Advice generator app solution
+# Advice Generator(API)
 
 ## Table of contents
 
@@ -37,7 +37,7 @@ To setup the project locally, follow these steps:
 2. Open the project folder in your code editor.
 3. Run the project using a live server extension or deploy it using Netlify, Vercel, or another web hosting and deployment service.
 ### Screenshot
-![](./preview.jpg.jpg)
+![](images/Advice-gen.png)
 
 ### Links
 - Solution URL: [Solution URL](https://github.com/Joshua-Ly/Advice-Generator)

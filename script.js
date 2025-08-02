@@ -9,7 +9,6 @@ async function FetchData() {
     console.log(json);
     ad_title.innerText = `Advice #${json.slip.id}`;
     ad_body.innerText = `"${json.slip.advice}"`;
-
 }
 dice.addEventListener("click", FetchData)
 
