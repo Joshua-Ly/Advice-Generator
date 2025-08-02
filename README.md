@@ -58,9 +58,8 @@ To setup the project locally, follow these steps:
 
 This project was useful in developing skills related to utilising fetch and async await syntax of javascript which can be quite difficult to implement alone, especially at beginner level.
 
-
+Proud of This Function:
 ```js
-<h1> Proud of this JS function <h1>
 async function FetchData() {
     const response = await fetch("https://api.adviceslip.com/advice");
     const json = await response.json();
@@ -69,7 +68,6 @@ async function FetchData() {
     ad_body.innerText = `"${json.slip.advice}"`;
 }
 ```
-
 ### Continued development
 
 The continuously learning journey of a programmer never ends. This project made me realise that there are many concepts that I need to work upon including fundamentals like flex-box and its properties, to more complex concepts like working with fetch and async await in javascript. These areas are some that I think I need to work more upon in the upcoming future as they highlight some of the most significant regions of web development that are important for every developer to know of.
