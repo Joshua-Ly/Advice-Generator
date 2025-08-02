@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+body{
+    background-color: hsl(218, 23%, 16%);
+    color: white;
+    font-family: "Kumbh Sans", "sans-serif";
+    text-align: center;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.card {
+    width: 300px;
+    position: relative;
+    background-color: hsl(217, 19%, 24%);
+    padding: 30px;
+    border-radius: 10px;
+}
+#ad-id {
+    text-align: center;
+    color:hsl(150, 100%, 66%);
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    margin-top: 0;
+    text-transform: uppercase;
+}
+#pattern {
+    width: 100%;
+    margin-bottom: 20px;
+}#dice {
+    position: absolute;
+    bottom: -20px;
+    background-color:hsl(150, 100%, 66%) ;
+    padding: 10px;
+    border-radius: 50%;
+    left: 160px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    /*box-shadow: 0 0 0 transparent; start with no glow */
+
+}
+
+#dice:hover {
+    background-color: hsl(225, 73%, 73%); /* subtle hover effect */
+    box-shadow: 0 0 15px hsl(225, 73%, 73%);
+  }
+#ad-body{
+    margin-top: 10px;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+
