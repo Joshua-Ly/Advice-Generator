@@ -41,7 +41,7 @@ To setup the project locally, follow these steps:
 
 ### Links
 - Solution URL: [Solution URL](https://github.com/Joshua-Ly/Advice-Generator)
-- Live Site URL: [Live Site URL](https://advice-gen-cbi8.vercel.app/)
+- Live Site URL: [Live Site URL](https://advicegen-one.vercel.app/)
 
 ## My process
 
